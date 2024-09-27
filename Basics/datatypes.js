@@ -2,12 +2,12 @@
 
 /*
 Datatypes in javascript
-1. number -> 2^53
-2. boolean
-3. string
-4. undefined
-5. null -> standalone value
-6. object
+1. number -> 73, 9.80
+2. boolean -> true/false
+3. string -> "abc"
+4. object -> for example :- null is an object.
+5. undefined -> undefined.
+6. null -> object type but null is also a standalone value.
 */
 
 let num = 78
