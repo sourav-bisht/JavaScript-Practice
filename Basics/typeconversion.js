@@ -1,6 +1,6 @@
-let variable = 9999
+let variable = "002"
 console.log(typeof variable)
-let conVariable = Boolean(variable)
+let conVariable = Number(variable)
 console.log(typeof conVariable)
 console.log(conVariable)
 
